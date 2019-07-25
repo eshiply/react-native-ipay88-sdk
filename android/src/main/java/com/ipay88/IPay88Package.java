@@ -27,4 +27,5 @@ public class IPay88Package implements ReactPackage {
     public List<ViewManager> createViewManagers(ReactApplicationContext reactContext) {
         return Collections.emptyList();
     }
+
 }

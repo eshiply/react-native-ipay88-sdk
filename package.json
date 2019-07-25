@@ -1,16 +1,22 @@
 {
-  "name": "ipay88-sdk",
-  "version": "1.0.2",
-  "description": "",
+  "name": "eshiply-ipay88",
+  "version": "1.0.5",
+  "description": "iPay88 - React Native",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/magicwebes/ipay88-sdk.git"
+    "url": "git+https://github.com/eshiply/react-native-ipay88-sdk"
   },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["react-native"],
-  "author": "Mohamed Yussuf",
-  "license": "MIT"
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Mohamed Yussuf, eShiply",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eshiply/react-native-ipay88-sdk/issues"
+  },
+  "homepage": "https://github.com/eshiply/react-native-ipay88-sdk#readme"
 }
